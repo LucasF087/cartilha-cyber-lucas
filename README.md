@@ -6,7 +6,7 @@ Repositório digital para revisão do semestre de Cyber Security.
 
 **Autor(a): Lucas Ferreira da Silva**
 
-Curso de Segurança da Informação – Professor Rodrigo Moreira
+### Curso de Segurança da Informação – Professor Rodrigo Moreira
 ---
 
 ⚠️Esta cartilha foi criada como atividade final do semestre para consolidar os conhecimentos sobre segurança da informação e servir como recurso público de aprendizagem e conscientização.
